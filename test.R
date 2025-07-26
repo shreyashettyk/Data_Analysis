@@ -1,3 +1,5 @@
+#Notes from lecture -https://www.youtube.com/watch?v=9kYUGMg_14s&list=PLtL57Fdbwb_Chn-dNR0qBjH3esKS2MXY3
+
 #import data and install R packages :: lecture video 3
 
 my_data  <- read.csv("friends.csv")
